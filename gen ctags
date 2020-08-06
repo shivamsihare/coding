@@ -1,1 +1,1 @@
-ctags -R -n -f tags .
+ctags -R -n -f tags *
